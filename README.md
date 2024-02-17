@@ -8,4 +8,4 @@ argument.
 
 See [my blog
 post](http://blog.brixandersen.dk/2010/04/02/downloading-sony-gps-assist-data-using-perl/)
-for more information.
+for more information or https://www.sony.com/electronics/support/articles/00012261 or https://web.archive.org/web/20190310111759/http://blog.brixandersen.dk/2010/04/02/downloading-sony-gps-assist-data-using-perl/.
